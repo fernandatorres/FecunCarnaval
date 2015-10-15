@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">FecunCarnaval</string>
+    <string name="facebook_app_id">966008250106978</string>
+    <string name="User">User ID</string>
+    <string name="token">Auth Token:</string>
+
+    <string name="title_activity_inicio">inicio</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">FESTUM</string>
+    <string name="friendProfilePicture">Foto de Perfil</string>
+    <string name="btn">boton amigos</string>
+    <string name="btnfm">boton famili</string>
+    <string name="btn28">d28</string>
+    <string name="votar">Votar</string>
+    <string name="votacion">Votacion</string>
+    <string name="te_voto">Esta seguro de votar por etsa carrosa?</string>
+
+    <string name="funde">Aceptar</string>
+    <string name="fundido">Su voto agregado</string>
+
+
+
+
+
+</resources>
+
